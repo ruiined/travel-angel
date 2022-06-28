@@ -134,4 +134,6 @@ npm test:integration # Integration tests of end-to-end functionality
 Alternatively all three of the above commands (Linting, Unit, and Integration tests) can be chained by running `npm run test`
 
 
-# Appendix
+# Preview
+![Trips](https://github.com/ruiined/travel-angel/blob/main/docs/gifs/travel_angel_trips.gif)
+![Flights](https://github.com/ruiined/travel-angel/blob/main/docs/gifs/travel_angel_flights.gif)
